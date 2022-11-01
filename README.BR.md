@@ -28,3 +28,4 @@ E deverá te dar um _feedback_ :)
 ## Autores de Scripts
 
 - [GuiDevloper](https://github.com/GuiDevloper)
+- [karineoliveira](https://github.com/karineferreiradeoliveira)

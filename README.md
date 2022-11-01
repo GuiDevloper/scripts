@@ -28,3 +28,4 @@ And it should give feedback :)
 ## Script Authors
 
 - [GuiDevloper](https://github.com/GuiDevloper)
+- [karineoliveira](https://github.com/karineferreiradeoliveira)
